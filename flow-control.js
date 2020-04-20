@@ -19,7 +19,7 @@ if (age === 13) {
 else if (age < 13) {
   return ("You are a kid")
 }
-else if (age <= 20) {
+else if (age >= 20) {
   return ("You are a grownup")
 }
 }
